@@ -1,4 +1,4 @@
-# code-refractor
+# code-refractor-challenge
 
 ## Purpose
 A website that offers internet services
