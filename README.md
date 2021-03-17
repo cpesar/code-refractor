@@ -8,7 +8,7 @@ A website that offers internet services
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://github.com/cpesar/code-refractor-challenge.git
 
 ## Contribution
 Made with ❤️ by Chris Pesar
